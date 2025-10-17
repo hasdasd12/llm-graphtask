@@ -24,6 +24,9 @@
 - GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks
 - LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs
 - Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations
+- Nt-llm: A novel node tokenizer for integrating graph structure into large language models
+- LLM-BRec: Personalizing session-based social recommendation with LLM-BERT fusion framework
+- LLMGCL: Graph Contrastive Learning with Large Language Models for Recommendation
 
 ## 🚀 2025
 - A Comprehensive Analysis on LLM-based Node Classification Algorithms  
@@ -58,3 +61,10 @@
 - ID-GMLM: Intelligent Decision-Making with Integrated Graph Models and Large Language Models
 - Contrastive Cross-Course Knowledge Tracing via Concept Graph Guided Knowledge Transfer
 - STLSP: Integrating Structure and Text with Large Language Models for Link Sign Prediction of Networks
+- Flag: Fraud detection with llm-enhanced graph neural network
+- Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection
+- LLM-Enhanced User–Item Interactions: Leveraging Edge Information for Optimized Recommendations
+- RecMind: LLM-Enhanced Graph Neural Networks for Personalized Consumer Recommendations、
+- LLM4Tap: LLM-enhanced tap rule recommendation
+- InterCorpRel-LLM: Enhancing Financial Relational Understanding with Graph-Language Models
+- An automatic graph construction framework based on large language models for recommendation
