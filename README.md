@@ -16,7 +16,14 @@
 - Large Language Models on Graphs: A Comprehensive Survey  
 - LLaGA: Large Language and Graph Assistant  
 - LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings  
-- Microstructures and Accuracy of Graph Recall by Large Language Models  
+- Microstructures and Accuracy of Graph Recall by Large Language Models
+- LLMRec: Large Language Models with Graph Augmentation for Recommendation
+- LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection
+- Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search
+- Can GNN be Good Adapter for LLMs?
+- GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks
+- LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs
+- Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations
 
 ## 🚀 2025
 - A Comprehensive Analysis on LLM-based Node Classification Algorithms  
@@ -36,4 +43,18 @@
 - LLMs Are Noisy Oracles! LLM-based Noise-aware Graph Active Learning for Node Classification  
 - MARK: Multi-agent Collaboration with Ranking Guidance for Text-attributed Graph Clustering  
 - SSTAG: Structure-Aware Self-Supervised Learning Method for Text-Attributed Graphs  
-- Towards Graph Foundation Models: A Transferability Perspective  
+- Towards Graph Foundation Models: A Transferability Perspective
+- LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework
+- MoKGNN: Boosting Graph Neural Networks via Mixture of Generic and Task-Specific Language ModelsLOGIN: A Large Language Model Consulted Graph Neural Network Training Framework
+- UniGLM: Training One Unified Language Model for Text-Attributed Graphs Embedding
+- Unleashing the Power of Large Language Model for Denoising Recommendation
+- Graph Meets LLM for Review Personalization based on User Votes
+- FG-CIBGC: A Unified Framework for Fine-Grained and Class-Incremental Behavior Graph Classification
+- Automatic Instruction Data Selection for Large Language Models via Uncertainty-Aware Influence Maximization
+- TGLsta: Low-resource Textual Graph Learning with Semantic and Topological Awareness via LLMs
+- Predicting User Behavior in Smart Spaces with LLM-Enhanced Logs and Personalized Prompts
+- DearLLM: Enhancing Personalized Healthcare via Large Language Models-Deduced Feature Correlations
+- Large Language Model Meets Graph Neural Network in Knowledge Distillation
+- ID-GMLM: Intelligent Decision-Making with Integrated Graph Models and Large Language Models
+- Contrastive Cross-Course Knowledge Tracing via Concept Graph Guided Knowledge Transfer
+- STLSP: Integrating Structure and Text with Large Language Models for Link Sign Prediction of Networks
